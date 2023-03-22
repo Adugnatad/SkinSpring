@@ -1,4 +1,4 @@
-package com.alibou.security.user;
+package com.alibou.security.models;
 
 import com.alibou.security.token.Token;
 import jakarta.persistence.Entity;
